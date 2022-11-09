@@ -1,3 +1,3 @@
 # SpheresED
-Run yarn install
-Then yarn start
+# Run yarn install
+# Then yarn start
